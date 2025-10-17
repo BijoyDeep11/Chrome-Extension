@@ -26,14 +26,6 @@
 
 ---
 
-## 🔧 Installation (for local testing)  
-1. Download or clone this repository.  
-2. Open Chrome and go to `chrome://extensions/`.  
-3. Enable **Developer Mode** (top-right corner).  
-4. Click **Load unpacked** and select the project folder.  
-5. The extension will now appear in your Chrome toolbar!  
-
----
 
 ## 🌱 Future Enhancements  
 - Add tab categorization and search  
